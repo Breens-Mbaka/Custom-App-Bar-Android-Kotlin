@@ -7,5 +7,10 @@ class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
+        hideActionBar()
+    }
+
+    private fun hideActionBar() {
+        supportActionBar?.hide()
     }
 }

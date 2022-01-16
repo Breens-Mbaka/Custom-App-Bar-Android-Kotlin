@@ -1,5 +1,5 @@
 <resources>
     <string name="app_name">Custom Action Bar Android Kotlin</string>
-    <string name="user_name">John K. Doe</string>
+    <string name="user_name">James K</string>
     <string name="welcome_back_message">Welcome back,</string>
 </resources>
